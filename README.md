@@ -1,4 +1,4 @@
-Módulo-4-SO3-CLI Comandos utilizados en Laboratorio Módulo 5 - Sistemas Operativos III
+Módulo-5-SO3-CLI Comandos utilizados en Laboratorio Módulo 5 - Sistemas Operativos III
 
 Este repositorio contiene los comandos prácticos con los cuales se desarrollaron las prácticas de el quinto laboratorio de la asignatura Sistemas Operativos III, impartida por el profesor Adrian Alcantara.
 
