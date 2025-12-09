@@ -65,7 +65,7 @@ vrrp_instance VI_1 {
     state MASTER          # EN BACKUP CAMBIAR MASTER POR BACKUP 
     interface ens160
     virtual_router_id 51
-    priority 100
+    priority 100           # EN BACKUP LA PRIORIDAD DEBE SER MASBAJA
     advert_int 1
 
     authentication {
@@ -93,3 +93,4 @@ ping 10.0.0.200
 nmcli con down ens160
 
 nmcli con up ens160
+
